@@ -1,0 +1,31 @@
+/* MEU PRIMEIRO CSS huehue*/
+
+header {
+    background-color:aqua;
+}
+
+.cabecalho {
+    background-color: pink;
+}
+
+section {
+border: solid 1px black;
+padding-left: 300px;
+}
+
+h2 {
+    margin: auto;
+}
+
+figure {
+    float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin pink solid;
+  margin: 0.5em;
+  padding: 0.5em;
+
+}
